@@ -29,39 +29,9 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
-    <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hungdaqq&theme=github_dark"
-    />
-    <img
-      alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hungdaqq&theme=nord_bright"
-    />
-  </picture>
-  <a style="display: flex; align-items: left;">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hungdaqq&theme=github_dark"
-    />
-    <img
-      alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hungdaqq&theme=nord_bright"
-    />
-  </picture>
-  </a>
-  <a style="display: flex; align-items: right;">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hungdaqq&theme=github_dark"
-    />
-    <img
-      alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hungdaqq&theme=nord_bright"
-    />
-  </picture>
-  </a>
+    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> Github Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hungdaqq&show_icons=true&theme=transparent&line_height=21" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungdaqq&exclude_repo=HH-Resumes-Updater&layout=compact&line_height=21" />
+    <br>
+    <img height="210px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hungdaqq&theme=github" />
 </div>
