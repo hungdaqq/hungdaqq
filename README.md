@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center">
   </div>
-  <h1 align="center">Hey there! Welcome to Hungdaqq <img src="https://raw.githubusercontent.com/Rabenherz112/Rabenherz112/main/assets/waving.gif" alt="Waving Hand" width="28" height="28"></h1>
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=2863C9&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+hungdaqq!"/>
   <br>
   <picture>
     <source
@@ -27,7 +27,7 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> Github Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hungdaqq&show_icons=true&theme=transparent&line_height=21" />
