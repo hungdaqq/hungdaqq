@@ -33,5 +33,5 @@
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hungdaqq&show_icons=true&theme=transparent&line_height=21" />
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungdaqq&exclude_repo=HH-Resumes-Updater&layout=compact&line_height=21" />
     <br>
-    <img height="210px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hungdaqq&theme=github" />
+    <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hungdaqq&theme=github" />
 </div>
