@@ -29,7 +29,7 @@
 <br>
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> Github Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
+    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"> <font color="#111111"> Github Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" width="30"></h2>
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hungdaqq&show_icons=true&theme=transparent&line_height=21" />
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungdaqq&exclude_repo=HH-Resumes-Updater&layout=compact&line_height=21" />
     <br>
